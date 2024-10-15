@@ -1,0 +1,12 @@
+Snakes = ["Pythonidae, a family of nonvenomous snakes found in Africa, Asia, and Australia","Python (mythology), a mythical serpent"]
+Computing = ["Python (programming language), a widely used high-level programming language","Python, a native code compiler for CMU Common Lisp"]
+People
+Roller coasters
+Vehicles
+Weaponry
+Other uses
+See also
+
+
+
+HTML tags, attr
