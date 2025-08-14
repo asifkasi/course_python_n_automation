@@ -1,9 +1,1 @@
-Dictionaries (40 Questions)
 
-Create a dictionary to store the names and ages of five people. Write a program to display the name of the oldest person.
-Write a program to add a new key-value pair to an existing dictionary.
-Write a program to create a nested dictionary and access its elements.
-Write a program to find the length of the longest key in a dictionary.
-Given a dictionary, write a program to check if a specific value exists in the dictionary.
-Write a program to swap the values of two keys in a dictionary.
-Write a program to check if two dictionaries are equal (i.e., have the same keys and values).
