@@ -1,3 +1,33 @@
+
+3.Write a program that reads 5 numbers and sums all odd values between them.
+Test Data :
+Input the first number: 11
+Input the second number: 17
+Input the third number: 13
+Input the fourth number: 12
+Input the fifth number: 5
+Expected Output:
+Sum of all odd values: 46
+
+6. Write a program to calculate the sum of all numbers not divisible by 17 between two given integer numbers.
+Test Data :
+Input the first integer: 50 Input the second integer: 99
+Expected Output:
+Sum: 3521
+
+7. Write a program that finds all integer numbers that divide by 7 and have a remainder of 2 or 3 between two given integers.
+Test Data :
+Input the first integer: 25
+Input the second integer: 45
+Expected Output:
+30
+31
+37
+38
+44
+
+
+
 4. Write a program to find the length of the longest key in a dictionary.
 
 11. Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
