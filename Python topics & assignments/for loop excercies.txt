@@ -1,3 +1,27 @@
+4. Write a program to find the length of the longest key in a dictionary.
+
+11. Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
+Sample Dictionary ( n = 5) :
+Expected Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+
+
+14. Write a Python program to combine two dictionary by adding values for common keys.
+d1 = {'a': 100, 'b': 200, 'c':300}
+d2 = {'a': 300, 'b': 200, 'd':400}
+Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+16. Write a Python program to combine values in a list of dictionaries.
+Sample data: [{'item': 'item1', 'amount': 400}, {'item': 'item2', 'amount': 300}, {'item': 'item1', 'amount': 750}]
+Expected Output: Counter({'item1': 1150, 'item2': 300})
+
+17. Write a Python program to create a dictionary from a string.
+Note: Track the count of the letters from the string.
+Sample string : 'w3resource'
+Expected output: {'w': 1, '3': 1, 'r': 2, 'e': 2, 's': 1, 'o': 1, 'u': 1, 'c': 1}
+
+
+
+
 0.0.0 Write a Python program to print 3 numbers on a line, starting with 1 and printing n lines. Accept the number of lines (n, integer) from the user.
 Test Data :
 Input number of lines: 5
